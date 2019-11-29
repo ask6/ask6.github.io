@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: ask6
 subtitle: ''
 description: ''
 keywords:
@@ -90,9 +90,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: 3-hexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+    type: git
+    repository: git@github.com:ask6/ask6.github.io.git
+    branch: master
