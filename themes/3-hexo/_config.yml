@@ -11,30 +11,30 @@ blog_path: /
 link:
   theme: color # 链接样式，color: 彩色图标  white: 黑白图标
   items:
-    rss: /atom.xml
-    github: https://github.com/yelog
-    facebook: https://www.facebook.com/faker.tops
-    twitter:
-    linkedin:
-    instagram: https://www.facebook.com/faker.tops
-    reddit: https://www.reddit.com/user/yelog/
-    weibo: http://weibo.com/u/2307534817
-    jianshu: https://www.jianshu.com/u/ff56736de7cf
-    zhihu: https://www.zhihu.com/people/jaytp/activities
-    csdn:
-    oschina: https://my.oschina.net/yelog
-    juejin:
-    email: jaytp@qq.com
-    qq: 872336115
-    kugou: https://www.kugou.com/
-    neteasemusic: https://music.163.com/#/user/home?id=88151013
+    # rss: /atom.xml
+    github: https://github.com/ask6
+    # facebook: https://www.facebook.com/faker.tops
+    # twitter:
+    # linkedin:
+    # instagram: https://www.facebook.com/faker.tops
+    # reddit: https://www.reddit.com/user/yelog/
+    # weibo: http://weibo.com/u/2307534817
+    # jianshu: https://www.jianshu.com/u/ff56736de7cf
+    # zhihu: https://www.zhihu.com/people/jaytp/activities
+    # csdn:
+    # oschina: https://my.oschina.net/yelog
+    # juejin:
+    # email: jaytp@qq.com
+    # qq: 872336115
+    # kugou: https://www.kugou.com/
+    # neteasemusic: https://music.163.com/#/user/home?id=88151013
 
 ##########多作者模式############
 author:
   on: false
   authors:
-    author1: 阿杰
-    author2: 小马哥
+    # author1: 阿杰
+    # author2: 小马哥
 ##############################
 
 # 文章分类设置
@@ -66,11 +66,11 @@ menu:
       type: 1  # 跳转类型 1：站内异步跳转
     叶落阁:
       on: false
-      url: http://yelog.org/
+      url: http://lzl.wiki/
       type: 2  # 跳转类型 2：当前页面跳转
     github:
       on: false
-      url: https://github.com/yelog
+      url: https://github.com/ask6
       type: 3  # 跳转类型 3：打开新的tab页
 
 # 文末声明
@@ -230,14 +230,14 @@ gentie:
   # 网易云跟帖暂时不支持查询评论数，所以启用时，把评论数关掉，上方comment_count: false。
 
 gitalk:
-  githubID: yelog
-  repo: yelog.github.io
-  ClientID:
-  ClientSecret:
-  adminUser: yelog
-  distractionFreeMode: true
-  language: zh-CN
-  perPage: 10
+  # githubID: yelog
+  # repo: yelog.github.io
+  # ClientID:
+  # ClientSecret:
+  # adminUser: yelog
+  # distractionFreeMode: true
+  # language: zh-CN
+  # perPage: 10
 # gitalk：利用github issue制作的第三方聊天插件
 # https://github.com/gitalk/gitalk
 # 参数介绍：
